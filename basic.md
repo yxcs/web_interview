@@ -1,1 +1,1 @@
-<h1 style='text-align: center'>复习资料总结</h1>
+<center><h1 style='text-align: center'>复习资料总结</h1></center>
