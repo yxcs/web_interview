@@ -233,10 +233,10 @@
 		- getBoundingClientRect()
 
 10. ### 事件
-  * 事件绑定
-		- addEventListener  removeEventlistener
-		- attachEvent  detachEvent
-		- html元素绑定 -> onclick
+  * 事件绑定 
+	- addEventListener  removeEventlistener 
+	- attachEvent  detachEvent 
+	- html元素绑定 -> onclick
 		
 
 		
